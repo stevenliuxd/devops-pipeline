@@ -1,0 +1,4 @@
+terraform-configs/.terraform/
+terraform-configs/.terraform.lock.hcl
+terraform-configs/*.tfstate
+terraform-configs/*.tfstate.backup
