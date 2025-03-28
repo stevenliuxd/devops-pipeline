@@ -25,4 +25,3 @@ jobs:
       - name: Push to Dockerhub
         run: |
           docker push ${{ secrets.DOCKERHUB_USERNAME }}/complete-devops-project:$SHORT_SHA
-          
